@@ -81,3 +81,5 @@ const generateTokenResponse = (user: any) => {
   user.token = token;
   return user;
 };
+
+//Just checking if everything is working in backend
